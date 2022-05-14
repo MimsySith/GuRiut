@@ -103,6 +103,11 @@ body{
     font-size: 18pt;
 }
 
+.break{
+    width: 100%;
+    height: 70px;
+}
+
 .footer{
     font-size: 10pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
